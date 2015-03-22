@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Make a use of your favicon with badges, images or videos",
-  version: "0.3.5",
+  version: "0.3.7",
   git: "https://github.com/ovcharik/meteor-favico"
 });
 
